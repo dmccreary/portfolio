@@ -1,0 +1,37 @@
+site_name: 'Dan McCreary Projects Portfolio'
+nav:
+  - GitHub Repos:
+    - Moving Rainbow: repos/moving-rainbow.md
+    - CoderDojo Robots: repos/coderdojo-robots.md
+  - Blogs:
+    - Medium: blogs/medium.md
+    - Blogspot: blogs/blogspot.md
+  - Presentations:
+    - MN State College: presentations/mn-state-college.md
+    - Graphphorum: presentations/graphorum.md
+    
+site_description: 'Dan McCreary Project Portfolio'
+site_author: 'Dan McCreary'
+repo_name: 'portfolio'
+repo_url: 'https://github.com/dmccreary/portfolio'
+edit_uri: 'blob/master/docs'
+theme:
+  name: material
+  palette:
+    primary: 'blue'
+    accent: 'orange'
+  feature:
+    tabs: true
+  custom_dir: 'theme'
+  include_sidebar: true
+markdown_extensions:
+  - admonition
+  - footnotes
+  - toc:
+      permalink: true
+  - codehilite:
+      linenums: true
+plugins:
+    - search
+markdown_extensions:
+  - codehilite
