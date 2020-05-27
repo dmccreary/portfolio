@@ -35,3 +35,13 @@ plugins:
     - search
 markdown_extensions:
   - codehilite
+extra: 
+  social: 
+    - icon: fontawesome/brands/github 
+      link: https://github.com/dmccreary 
+    - icon: fontawesome/brands/twitter 
+      link: https://twitter.com/dmccreary 
+    - icon: fontawesome/brands/linkedin 
+      link: https://linkedin.com/in/danmccreary 
+    - icon: fontawesome/brands/medium 
+      link: https://medium.com/@dmccreary
