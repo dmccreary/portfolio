@@ -22,5 +22,5 @@ Blogspot: [http://datadictionary.blogspot.com/](http://datadictionary.blogspot.c
 
 ### Talks
 
-[MN State Conference: AI and Graph Technologies](https://minnstate.zoom.us/rec/play/tMd8dO7--m83SN3HuASDA_J5W46-KqyshHIb_fpfyEa1VyYFY1LzZLBHYOIOY65pQslTydjzB3jkTTB6
+[MN State Conference: AI and Graph Technologies](https://minnstate.zoom.us/rec/play/tMd8dO7--m83SN3HuASDA_J5W46-KqyshHIb_fpfyEa1VyYFY1LzZLBHYOIOY65pQslTydjzB3jkTTB6)
 
