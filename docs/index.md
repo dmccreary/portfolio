@@ -20,4 +20,7 @@ This is where I do most of my medium-format blogging on graph databases, mentori
 
 Blogspot: [http://datadictionary.blogspot.com/](http://datadictionary.blogspot.com/)
 
+### Talks
+
+[MN State Conference: AI and Graph Technologies](https://minnstate.zoom.us/rec/play/tMd8dO7--m83SN3HuASDA_J5W46-KqyshHIb_fpfyEa1VyYFY1LzZLBHYOIOY65pQslTydjzB3jkTTB6
 
